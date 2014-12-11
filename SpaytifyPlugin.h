@@ -10,4 +10,6 @@
 
 @interface SpaytifyPlugin : NSObject
 
++ (void) load;
+
 @end
