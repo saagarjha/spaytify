@@ -16,10 +16,10 @@ In time, hopefully we won't need to use this anymore.
 ## Installation
 
 1. Install [EasySIMBL](https://github.com/norio-nomura/EasySIMBL)
-2. Build the bundle (TODO: provide pre-built bundle)
-3. Run EasySIMBL, and drag the built bundle into the plugin list
-4. Relaunch Spotify
-5. Enjoy a quieter Spotify
+2. Download the bundle from Github's releases page. Extract the bundle included in the zip file.
+3. Run EasySIMBL
+4. Drag the bundle into the plugin list
+5. Relaunch Spotify
 
 ## Status
-Proof-of-concept validated. In testing locally on 10.9.5.
+Working on 10.9.5 + latest Spotify
