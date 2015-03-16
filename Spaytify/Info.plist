@@ -29,8 +29,6 @@
     <dict>
       <key>BundleIdentifier</key>
       <string>com.spotify.client</string>
-      <key>MinBundleVersion</key>
-      <string>91400013</string>
     </dict>
   </array>
 </dict>
