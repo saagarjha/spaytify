@@ -15,11 +15,10 @@ In time, hopefully we won't need to use this anymore.
 
 ## Installation
 
-1. Install [EasySIMBL](https://github.com/norio-nomura/EasySIMBL)
+1. Install [SIMBL](http://www.culater.net/software/SIMBL/SIMBL.php) (if you were using EasySIMBL previously, migrate to SIMBL using [this guide](https://gist.github.com/hetima/51b71091aedf622f61f7))
 2. Download the bundle from Github's releases page. Extract the bundle included in the zip file.
-3. Run EasySIMBL
-4. Drag the bundle into the plugin list
-5. Relaunch Spotify
+3. Copy the bundle into `~/Library/Application Support/SIMBL/Plugins`
+4. Relaunch Spotify
 
 ## Status
-Working on 10.9.5 + latest Spotify
+Working on 10.10.4
