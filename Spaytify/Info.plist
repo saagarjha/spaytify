@@ -26,10 +26,14 @@
 	<string>SpaytifyPlugin</string>
 	<key>SIMBLTargetApplications</key>
 	<array>
-    <dict>
-      <key>BundleIdentifier</key>
-      <string>com.spotify.client</string>
-    </dict>
-  </array>
+		<dict>
+			<key>BundleIdentifier</key>
+			<string>com.spotify.client</string>
+		</dict>
+		<dict>
+			<key>BundleIdentifier</key>
+			<string>com.microsoft.autoupdate2</string>
+		</dict>
+	</array>
 </dict>
 </plist>

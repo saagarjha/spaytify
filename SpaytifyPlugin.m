@@ -15,7 +15,7 @@
 
 + (void) load
 {
-  [[NSApp dockTile] setBadgeLabel:nil];
+  [NSApp.dockTile setBadgeLabel:nil];
   
   replaceMethod([NSApplication class],
                 @selector(requestUserAttention:),
